@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="NeoPortal" id="6AFC2633-192A-8950-DE31-6989F88484A8" version="3.5">
+<createdBy>ALVARO</createdBy>
+<createdTime>2026-10-06 01:12:37 UTC</createdTime>
+<ownerDesignName>NeoPortal</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6AFC2633-192A-8950-DE31-6989F88484A8</designId>
+</OSDM_Design>
